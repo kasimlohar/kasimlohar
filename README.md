@@ -29,7 +29,7 @@ A full-stack adventure booking platform developed with **Node.js**, **Express**,
 - 🗺️ Interactive maps powered by Mapbox  
 - 📸 Image uploads via Cloudinary
 
-### [WeatherWise](https://github.com/kasimlohar/react/projects/weatherwise) ☀️
+### [WeatherWise](https://github.com/kasimlohar/React/tree/main/Projects/Weatherwise) ☀️
 A real-time weather application built with **React**, **Material-UI**, and the **OpenWeatherMap API**. It delivers dynamic weather updates for cities worldwide and demonstrates expertise in API integration and modern frontend development using **Vite**.
 
 ## Let's Connect 🔗
