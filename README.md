@@ -98,7 +98,7 @@ A full-stack MERN platform connecting adventure enthusiasts with outdoor activit
 - Implemented **comprehensive security**: CSP, input sanitization, rate limiting  
 - Real-time image uploads via **Cloudinary** with client-side validation  
 
-🔗 [GitHub Repo](https://github.com/kasimlohar/wildspire) • 🌐 [Live Demo](https://wildspire.vercel.app)
+🔗 [GitHub Repo](https://github.com/kasimlohar/wildspire) 🌐 [Live Demo](https://wildspire.vercel.app)
 
 ### 🤖 [Canopy - AI-Powered Project Management](https://github.com/kasimlohar/canopy)
 A React application that transforms project briefs into structured development roadmaps using **Google Gemini AI** and **real-time collaboration**.
@@ -111,7 +111,7 @@ A React application that transforms project briefs into structured development r
 - **95%+ uptime** with intelligent error handling and fallbacks  
 - **60fps animations** and WCAG 2.1 AA accessibility compliance  
 
-🔗 [GitHub Repo](https://github.com/kasimlohar/canopy) • 🌐 [Live Demo](https://canopy-gray.vercel.app)
+🔗 [GitHub Repo](https://github.com/kasimlohar/canopy) 🌐 [Live Demo](https://canopy-gray.vercel.app)
 
 ## 📊 Activity & Engagement
 
@@ -134,10 +134,12 @@ A React application that transforms project briefs into structured development r
 
 ## 📱 Let's Connect
 
-- **Email:** [kasimlohar2@gmail.com](mailto:kasimlohar2@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/kasimlohar](https://www.linkedin.com/in/kasimlohar/)  
-- **GitHub:** [github.com/kasimlohar](https://github.com/kasimlohar)  
-- **LeetCode:** [leetcode.com/u/Kasimlohar](https://leetcode.com/u/Kasimlohar/)  
+<p align="center">
+  <a href="mailto:kasimlohar2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kasimlohar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/kasimlohar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Kasimlohar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
 
 ## 🎮 Fun Facts
 
