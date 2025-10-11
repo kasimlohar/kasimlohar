@@ -117,13 +117,6 @@ A React application that transforms project briefs into structured development r
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
-<p align="center">
-  <a href="mailto:kasimlohar2@gmail.com">kasimlohar2@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/kasimlohar/">LinkedIn</a> • 
-  <a href="https://leetcode.com/u/Kasimlohar/">LeetCode</a>
-</p>
-
 ---
 
 ## 🎮 Fun Facts
