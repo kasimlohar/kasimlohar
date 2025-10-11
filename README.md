@@ -53,11 +53,7 @@ My journey started exploring system internals through ethical hacking, which nat
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Core Competencies
-**Problem Solving** • **RESTful API Design & Development** • **Authentication & Authorization (Passport.js, JWT)** • **Real-time Communication (WebSockets)** • **Responsive Web Design** • **UI/UX Principles** • **Security Best Practices (CSP, Sanitization, Helmet.js)** • **AI Integration & LLM Applications** • **Agile Methodologies** • **Collaborative Development**
-
 ---
-
 ## 🎯 Featured Projects
 
 ### 🏕️ [WildSpire - Adventure Booking Platform](https://github.com/kasimlohar/wildspire)
@@ -98,17 +94,6 @@ A React application that transforms project briefs into structured development r
 
 ### 🏆 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kasimlohar)
-
----
-
-## 🎓 Education & Certifications
-
-- **B.E. Artificial Intelligence & Data Science** – Savitribai Phule Pune University, Pune (Expected May 2027)
-  - **CGPA:** 8.31/10 | Current Year: 3rd Year (2025)
-
-- **Apna College – DSA + MERN Stack Certification** (2024)
-- **OCI Foundational AI Certification** – Oracle University (2025)
-- **1st Runner-up – PSA Logo Design Contest** (UI/UX Design, 2024)
 
 ---
 
