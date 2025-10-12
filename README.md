@@ -95,7 +95,7 @@ A React application that transforms project briefs into structured development r
 <div align="center">
 <br/>
 <a href="https://leetcode.com/u/Kasimlohar/">
-  <img src="https://leetcard.jacoblin.cool/kasimlohar?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="400" />
+  <img src="https://leetcard.jacoblin.cool/kasimlohar?theme=dark&font=Source%20Code%20Pro" width="400" />
 </a>
 
 </div>
