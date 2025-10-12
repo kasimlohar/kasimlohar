@@ -9,11 +9,9 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer (MERN)** passionate about building **scalable, AI-driven web applications** that solve real-world problems.  
-Currently honing my skills in **AI integration**, **system security**, and **clean architecture** through hands-on projects.
+I'm a student developer passionate about building scalable, intelligent web applications that solve real-world problems. Currently learning full-stack development through hands-on projects with **MERN stack**, **AI integration**, and **secure coding practices**. I thrive in collaborative environments where I can combine creative problem-solving with clean, maintainable code.
 
-My journey began with **ethical hacking**, which evolved into a deep interest in full-stack and secure web systems.  
-I'm now seeking a **Full-Stack Developer** or **AI Engineer Internship** to contribute to impactful projects.
+My journey started exploring system internals through ethical hacking, which naturally evolved into full-stack development. Now I specialize in **AI-powered features** and **application security**—building systems that are scalable, intelligent, and secure. I'm actively seeking a **Full-Stack Developer or AI Engineer internship**.
 
 ## 🌱 Currently Exploring
 
@@ -130,3 +128,4 @@ A React application that transforms project briefs into structured development r
 **⭐ Found my work interesting? Star my repos or reach out—let's build something great together!**
 
 </div>
+
