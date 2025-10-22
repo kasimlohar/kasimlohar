@@ -75,6 +75,13 @@ A React application that transforms project briefs into structured development r
 - **95%+ uptime** with intelligent error handling and fallbacks  
 - **60fps animations** and WCAG 2.1 AA accessibility compliance  
 
+### Additional Projects
+
+| Project | Description | Tech Stack | Status | Links |
+|---------|-------------|------------|---------|-------|
+| **🌊 AquaSafe** | Real-time beach safety monitoring with AI risk assessment | React, Node.js, MongoDB, Redis, Socket.io, Python ML | 🔄 Development | [Repo](https://github.com/kasimlohar/AquaSafe) |
+| **🏗️ Civil Universe** | Business directory connecting civil engineering professionals | React, Redux, Node.js, MongoDB, Socket.io | 🔄 Development | [Repo](https://github.com/kasimlohar/Civil_Universe) |
+
 ---
 
 ## 📊 Activity & Engagement
