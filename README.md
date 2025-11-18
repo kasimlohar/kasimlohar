@@ -131,7 +131,13 @@ AI-powered chat with PDFs, images, videos, and audio using RAG + Pinecone.
 
 ## 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kasimlohar&show_icons=true&hide_border=true" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=kasimlohar&hide_border=true" height="150" /> </p> <p align="left"> <img src="https://leetcard.jacoblin.cool/kasimlohar?theme=dark&font=Source%20Code%20Pro" width="400" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasimlohar&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=kasimlohar&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kasimlohar?theme=dark&font=Source%20Code%20Pro" width="400" />
 </p>
 
 ---
