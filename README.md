@@ -1,138 +1,143 @@
-<!-- 🎯 Hero / Intro Section -->
-<div align="center">
+# Hey, I'm Kasim 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Kasim+Lohar;Full-Stack+Developer+(MERN)+|+AI+Integration+Specialist;Building+Secure+and+Scalable+Web+Apps" alt="Typing SVG" />
-
-</div>
+Full-Stack Developer & AI Engineer building scalable web systems and practical AI-driven tools.
 
 ---
 
-## 🚀 About Me
+## 🚧 What I'm Working On
 
-I'm a student developer passionate about building scalable, intelligent web applications that solve real-world problems. Currently learning full-stack development through hands-on projects with **MERN stack**, **AI integration**, and **secure coding practices**. I thrive in collaborative environments where I can combine creative problem-solving with clean, maintainable code.
+### **Completed Projects**
 
-My journey started exploring system internals through ethical hacking, which naturally evolved into full-stack development. Now I specialize in **AI-powered features** and **application security**—building systems that are scalable, intelligent, and secure. I'm actively seeking a **Full-Stack Developer or AI Engineer internship**.
+---
 
-## 🌱 Currently Exploring
+### **Canopy — AI-Powered Project Management**
 
-- 🤖 Integrating **AI Agents (RAG)** into full-stack apps  
-- 🧩 Automating workflows using **n8n** and **LangChain**  
-- ☁️ Deploying scalable apps on **AWS** and **Azure**
+**Live:** [https://canopy-gray.vercel.app](https://canopy-gray.vercel.app)
+**Repo:** [https://github.com/kasimlohar/canopy](https://github.com/kasimlohar/canopy)
 
-## 💼 Technical Skills
+AI tool that converts unstructured project briefs into structured roadmaps with real-time collaboration.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&perline=6" />
-  </a>
-</p>
+* Gemini-powered parsing and workflow generation
+* Sub-200ms multiplayer sync via Supabase & WebSockets
+* Smooth 60fps UI, dark/light themes, and access-controlled data
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite&perline=7" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,firebase,supabase,redis&perline=10" />
-  </a>
-</p>
+### **WildSpire — Adventure Booking Platform**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,githubactions,git,github,vscode,postman,notion,figma,slack&perline=12" />
-  </a>
-</p>
+**Live:** [https://wildspire.vercel.app](https://wildspire.vercel.app)
+**Repo:** [https://github.com/kasimlohar/wildspire](https://github.com/kasimlohar/wildspire)
 
-<p align="center">
-  <strong>AI & Automation:</strong> Google Gemini API • LangChain • OpenAI • HuggingFace • N8N
+Full-stack platform for adventure bookings with secure authentication and geolocation features.
+
+* 15+ REST APIs with session + JWT auth
+* Mapbox-powered activity discovery
+* Cloudinary media pipeline + input validation + rate limiting
+
+---
+
+### **ConfluxAI — Multi-Media Knowledge Base**
+
+**Repo:** [https://github.com/kasimlohar/ConfluxAI](https://github.com/kasimlohar/ConfluxAI)
+
+AI-powered chat with PDFs, images, videos, and audio using RAG + Pinecone.
+
+* Multi-format upload and processing
+* LangChain agents & vector search
+* Automated n8n workflows
+
+---
+
+## 🔄 Other Projects (Active / Ongoing)
+
+* **AquaSafe** — AI beach safety system (IEEE 1st Prize)
+  *Repo:* [https://github.com/kasimlohar/AquaSafe](https://github.com/kasimlohar/AquaSafe)
+
+* **Civil Universe** — Professional marketplace with real-time bookings
+  *Repo:* [https://github.com/kasimlohar/Civil_Universe](https://github.com/kasimlohar/Civil_Universe)
+
+* **SabhjiGo (PWA)** — Offline-first local marketplace with vendor tracking
+  *Repo:* [https://github.com/kasimlohar/SabhjiGo](https://github.com/kasimlohar/SabhjiGo)
+
+---
+## 🧰 Tech Stack
+
+### **Languages**
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=java\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+
+### **Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat\&logo=redux\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat\&logo=tailwindcss\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat\&logo=framer\&logoColor=white)
+
+### **Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-3A3A3A?style=flat)
+
+### **AI / ML**
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG%20Systems-0A66C2?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-3333FF?style=flat)
+
+### **Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+
+### **Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4AAA?style=flat)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
+
+---
+
+## 📌 Quick Facts
+
+* 🔭 Currently working on: **AI systems, real-time features, and full-stack applications**
+* 🌱 Learning: **Distributed systems, advanced RAG pipelines, DevOps fundamentals**
+* 💬 Ask me about: **React, Node.js, real-time collaboration, AI integration, system design**
+* 💡 Interests: **AI-driven tooling, developer experience, data-centric engineering**
+
+---
+
+## 🌐 Connect
+
+* **LinkedIn:** [https://www.linkedin.com/in/kasimlohar/](https://www.linkedin.com/in/kasimlohar/)
+* **Email:** [kasimlohar2@gmail.com](mailto:kasimlohar2@gmail.com)
+* **GitHub:** [https://github.com/kasimlohar](https://github.com/kasimlohar)
+* **LeetCode:** [https://leetcode.com/kasimlohar](https://leetcode.com/kasimlohar)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kasimlohar&show_icons=true&hide_border=true" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=kasimlohar&hide_border=true" height="150" /> </p> <p align="left"> <img src="https://leetcard.jacoblin.cool/kasimlohar?theme=dark&font=Source%20Code%20Pro" width="400" /> 
 </p>
 
 ---
 
-## 🎯 Featured Projects
+## ✍️ Latest Writing
 
-### 🏕️ [WildSpire - Adventure Booking Platform](https://github.com/kasimlohar/wildspire) [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel)](https://wildspire.vercel.app)
-A full-stack MERN platform connecting adventure enthusiasts with outdoor activities through interactive maps and seamless booking.
-
-**Tech:** EJS, Bootstrap 5, Node.js, Express.js, MongoDB, Cloudinary, Mapbox GL | **Deployed on:** Vercel  
-
-**Highlights:**
-- Built **15+ RESTful API routes** with secure Passport.js authentication  
-- Integrated **Mapbox GL** for interactive geolocation (50+ locations) with **40% load optimization**  
-- Implemented **comprehensive security**: CSP, input sanitization, rate limiting  
-- Real-time image uploads via **Cloudinary** with client-side validation  
-
-### 🤖 [Canopy - AI-Powered Project Management](https://github.com/kasimlohar/canopy) [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel)](https://canopy-gray.vercel.app)
-A React application that transforms project briefs into structured development roadmaps using **Google Gemini AI** and **real-time collaboration**.
-
-**Tech:** React, TypeScript, Supabase, Google Gemini API, WebSockets | **Deployed on:** Vercel  
-
-**Highlights:**
-- AI-powered brief-to-roadmap transformation with **streaming Gemini API responses**  
-- Real-time collaborative editing using **WebSockets** (sub-200ms sync)  
-- **95%+ uptime** with intelligent error handling and fallbacks  
-- **60fps animations** and WCAG 2.1 AA accessibility compliance  
-
-### Additional Projects
-
-| Project | Description | Tech Stack | Status | Links |
-|---------|-------------|------------|---------|-------|
-| **🌊 AquaSafe** | Real-time beach safety monitoring with AI risk assessment | React, Node.js, MongoDB, Redis, Socket.io, Python ML | 🔄 Development | [Repo](https://github.com/kasimlohar/AquaSafe) |
-| **🏗️ Civil Universe** | Business directory connecting civil engineering professionals | React, Redux, Node.js, MongoDB, Socket.io | 🔄 Development | [Repo](https://github.com/kasimlohar/Civil_Universe) |
+* *Coming soon — engineering notes on AI + full-stack integration and GSoC workflow insights.*
 
 ---
-
-## 📊 Activity & Engagement
-
-<div align="center">
-
-<a href="https://github.com/kasimlohar">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasimlohar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160px"/>
-</a>
-<a href="https://github.com/kasimlohar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimlohar&theme=radical&hide_border=true" height="160px"/>
-</a>
-
-</div>
-
-<div align="center">
-<br/>
-<a href="https://leetcode.com/u/Kasimlohar/">
-  <img src="https://leetcard.jacoblin.cool/kasimlohar?theme=dark&font=Source%20Code%20Pro" width="400" />
-</a>
-
-</div>
-
----
-
-## 📱 Let's Connect
-
-<p align="center">
-  <a href="mailto:kasimlohar2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kasimlohar/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kasimlohar">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
-
-## 🎮 Fun Facts
-
-- ☕ **Coffee-fueled developer** – Believe in coffee-driven development  
-- 🔍 **Security curious** – Started my journey with ethical hacking and system internals  
-- 🚀 **Builder at heart** – I turn ideas into working products  
-
-<div align="center">
-
-**⭐ Found my work interesting? Star my repos or reach out—let's build something great together!**
-
-</div>
-
