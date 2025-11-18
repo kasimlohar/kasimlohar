@@ -50,7 +50,7 @@ AI-powered chat with PDFs, images, videos, and audio using RAG + Pinecone.
 
 ## 🔄 Other Projects (Active / Ongoing)
 
-* **AquaSafe** — AI beach safety system (IEEE 1st Prize)
+* **AquaSafe** — AI beach safety system (IEEE ICICIS 2025 1st Prize)
   *Repo:* [https://github.com/kasimlohar/AquaSafe](https://github.com/kasimlohar/AquaSafe)
 
 * **Civil Universe** — Professional marketplace with real-time bookings
